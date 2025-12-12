@@ -1,0 +1,23 @@
+{
+  "name": "api-rest-versionada",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api-rest-completa-versionada.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolfoParada/api-rest-versionada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodolfoParada/api-rest-versionada/issues"
+  },
+  "homepage": "https://github.com/RodolfoParada/api-rest-versionada#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
